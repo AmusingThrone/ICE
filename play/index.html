@@ -31,10 +31,33 @@
         <div class="background-image"></div>
         <h2>CPPS Theme: ICE</h2>
         <div class="videoWrapper">
-            <object type="application/x-shockwave-flash" id="gameEmbed" name="gameEmbed" data="load.swf" width="100%" height="100%" style="visibility: visible;" title="Adobe Flash Player">
-                <param name="allowScriptAccess" value="always">
-                <param name="flashvars" value="lang=en">
-            </object>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+            <script type="text/javascript">
+                var swfUrl = "load.swf";
+                var swfID = "scene";
+                var swfWidth = "1024";
+                var swfHeight = "720";
+                var swfVersion = "6.9.4.2.0";
+                var allowExpressInstall = false;
+                var flashVars = {};
+                var params = {
+                    menu: "false",
+                    quality: "high",
+                    allowscriptaccess: "always",
+                    wmode: "opaque",
+                    salign: "t"
+                };
+                var attributes = {
+                    id: swfID,
+                    name: swfID
+                };
+                swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+            </script>
+            <!-- div shit fix -->
+            <div id="sceneCont">
+                <div id="scene"></div>
+            </div>
         </div>
     </section>
 
