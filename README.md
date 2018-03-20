@@ -22,10 +22,10 @@ If you are interested in how to setup a CPPS using Kitsune, you can check out [m
 ## Screenshots
 
 Homepage:
-![Homepage](https://i.imgur.com/Wr1wP2g.png)
+![Homepage](https://i.imgur.com/rh4zc1U.png)
 
 Register:
-![Register](https://i.imgur.com/E5sWu5J.png)
+![Register](https://i.imgur.com/Ecywn6L.png)
 
 Footer (on bottom of every page):
 ![Footer](http://i.imgur.com/OYEm82e.png)
