@@ -29,6 +29,6 @@ Footer (on bottom of every page):
  - [CP Remastered](https://cpremastered.com)
 
 ## Donation
-If you use this theme on your project, or find it useful, feel free to donate down below. Donations motivate me to continue to do more open-source projects.
+If you use this theme on your project, or find it useful, feel free to donate down below. Donations motivate me to continue to do more open-source projects and are highly appreciated.
 
 [![paypal](https://www.paypalobjects.com/en\_US/i/btn/btn\_donateCC\_LG.gif)](https://paypal.me/AmusingThrone)
