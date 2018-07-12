@@ -23,6 +23,10 @@ Register:
 Footer (on bottom of every page):
 ![Footer](http://i.imgur.com/OYEm82e.png)
 
+## Credit
+
+Feel free to change the social links in the footer, but please keep the text and link on the bottom crediting me unless you are some of the few awesome people who have bought me a coffee ☕😊.
+
 ## Hall of Fame
 
  - [Hoven Bot Project](https://hoven.amusingthrone.com)
